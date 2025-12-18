@@ -1,3 +1,6 @@
+-- Deobfuscated with MoonSec V3 Deobfuscator Tool
+-- Original script had 1 lines and 218841 characters
+
 local HttpService = game:GetService("HttpService")
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 
